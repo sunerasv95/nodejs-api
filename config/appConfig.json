@@ -1,0 +1,11 @@
+{
+    "passport": {
+      "jwt_encryption": "thesecret001",
+      "jwt_expiration": 14400
+      
+    },
+    "app": {
+        "port": 5000
+    }
+  }
+  
